@@ -17,7 +17,7 @@
             android:keyLabel="9"
             android:keyEdgeFlags="left" />
         <Key
-            android:codes="-1"
+            android:codes="-3"
             android:keyLabel="BACK"
             android:keyWidth="67%p"
             android:keyEdgeFlags="right"/>
