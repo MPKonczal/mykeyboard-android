@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyKeyboard</string>
+    <string name="ime">Unusual Keyboard</string>
+    <string name="subtype">English</string>
+</resources>
