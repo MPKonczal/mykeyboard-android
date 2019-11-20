@@ -6,15 +6,25 @@
     android:keyHeight="80dp">
 
     <Row>
-        <Key android:codes="0" android:keyLabel="0" android:keyEdgeFlags="left"/>
-        <Key android:codes="1" android:keyLabel="1"/>
-        <Key android:codes="2" android:keyLabel="2" android:keyEdgeFlags="right"/>
+        <Key android:codes="0"
+             android:keyIcon="@drawable/ic_text_fields_black_24dp"
+             android:keyEdgeFlags="left"/>
+        <Key android:codes="1"
+             android:keyIcon="@drawable/ic_music_note_black_24dp"/>
+        <Key android:codes="2"
+             android:keyIcon="@drawable/ic_photo_camera_black_24dp"
+             android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
-        <Key android:codes="3" android:keyLabel="3" android:keyEdgeFlags="left"/>
-        <Key android:codes="4" android:keyLabel="4"/>
-        <Key android:codes="5" android:keyLabel="5" android:keyEdgeFlags="right"/>
+        <Key android:codes="3"
+             android:keyIcon="@drawable/ic_note_add_black_24dp"
+             android:keyEdgeFlags="left"/>
+        <Key android:codes="4"
+             android:keyIcon="@drawable/ic_short_text_black_24dp"/>
+        <Key android:codes="5"
+             android:keyIcon="@drawable/ic_transform_black_24dp"
+             android:keyEdgeFlags="right"/>
     </Row>
 
 </Keyboard>
